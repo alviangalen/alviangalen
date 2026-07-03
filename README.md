@@ -39,7 +39,7 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AWcloud&logoColor=white" alt="Cloud" />
 </p>
 
 ---
