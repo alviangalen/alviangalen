@@ -12,8 +12,8 @@
 
 ### About Me
 
-- I’m currently learning deeper into **Cloud Infrastructure, Cisco Networking, and Linux**.
-- Fun fact: I enjoy diving into the nitty-gritty of both software and infrastructure!
+- I’m currently learning deeper into **Web Development, Cloud Infrastructure, Cisco Networking, and Linux**.
+- Fun fact: I like JKT48 and Victoria Kimberly is my oshi!
 
 ---
 
