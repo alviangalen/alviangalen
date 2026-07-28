@@ -13,8 +13,6 @@
 ### About Me
 
 - I’m currently learning deeper into **Cloud Infrastructure, Cisco Networking, and Linux**.
-- I'm building things with **React** for web development and exploring **Desktop Development**.
-- Ask me about **JavaScript, TypeScript, PHP, Python, or Web Development**.
 - Fun fact: I enjoy diving into the nitty-gritty of both software and infrastructure!
 
 ---
