@@ -48,13 +48,13 @@
   <table>
     <tr>
       <td valign="center">
-        <img height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF3a2prMmYwZG52YWM3NGxzcHp1MDI5NGxzc21ocDB4aHJ0OWdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPU5XOSIc4XuyN8APA/giphy.gif" />
+        <img height="130" src="https://i.giphy.com/media/MPU5XOSIc4XuyN8APA/giphy.gif" />
       </td>
       <td valign="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=alviangalen&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
       </td>
       <td valign="center">
-        <img height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE2ZzJ3Mng2MmxvdzdjaW50cmZiYnUxZTNoa3c4aDJtM3I0eHJoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JBYvR0kXKxu5OUv2Hy/giphy.gif" />
+        <img height="130" src="https://i.giphy.com/media/JBYvR0kXKxu5OUv2Hy/giphy.gif" />
       </td>
     </tr>
   </table>
