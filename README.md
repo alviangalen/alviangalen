@@ -48,13 +48,13 @@
   <table>
     <tr>
       <td valign="center">
-        <img height="130" src="https://i.giphy.com/media/MPU5XOSIc4XuyN8APA/giphy.gif" />
+        <img height="130" src="/src/kimi1.gif" />
       </td>
       <td valign="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=alviangalen&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
       </td>
       <td valign="center">
-        <img height="130" src="https://i.giphy.com/media/JBYvR0kXKxu5OUv2Hy/giphy.gif" />
+        <img height="130" src="/src/kimi2.gif" />
       </td>
     </tr>
   </table>
